@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  font-family:  'Dela Gothic One', cursive;
+  color: black;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: 88px 370px;
+}
+
+.header__wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile{
+  display: flex;
+  color: #2B788B;
+  text-align: center;
+}
+.header-btn{
+  color: black;
+  margin-right: 100px;
+  font-size: 16px;
+  font-weight: 600;
+  padding-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.header-btn1{
+  margin: 24px 370px;
+  align-items: center;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-right: 100px;
+}
+
+.header__line{
+  background: url(../img/Vector.png);
+  width: 0;
+  height: 16px;
+  color: black;
+}
+.header__btn-prof{
+  margin-left: auto;
+}
